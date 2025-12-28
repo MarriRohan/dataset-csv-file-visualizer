@@ -56,6 +56,3 @@ This project is suitable for academic projects, data analysis practice, hackatho
 | Output Format | HTML |
 
 ---
-
-## Project Structure
-

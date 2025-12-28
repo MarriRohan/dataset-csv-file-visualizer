@@ -61,7 +61,7 @@ This project is suitable for academic projects, data analysis practice, hackatho
 
 ### Step 1: Clone the Repository
  ```sh
-git clone <your-repository-url>
+git clone https://github.com/MarriRohan/dataset-csv-file-visualizer.git
 cd csv-dataset-visualizer
  ```
 ### Step 2: Install Dependencies

@@ -60,18 +60,18 @@ This project is suitable for academic projects, data analysis practice, hackatho
 ## How to Run
 
 ### Step 1: Clone the Repository
-'''sh
+ ```sh
 git clone <your-repository-url>
 cd csv-dataset-visualizer
-'''
+ ```
 ### Step 2: Install Dependencies
-'''sh 
+ ```sh
 pip install pandas numpy matplotlib seaborn 
-'''
+ ```
 ### Step 3: Run the Script
-'''sh 
+ ```sh
 python csvv.py 
-'''
+ ```
 ### Step 4: Select CSV File
 A file selection dialog will open.
 Choose any CSV file to begin analysis.

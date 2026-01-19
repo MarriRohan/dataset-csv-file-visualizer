@@ -28,9 +28,6 @@ This project is suitable for academic projects, data analysis practice, hackatho
   - Pie charts
   - Line (trend) charts
   - Heatmaps
-- Produces ranking-based insights such as:
-  - Industries that created the most rich individuals
-  - Youngest individuals ranked by age
 - Creates a downloadable HTML report
 
 ---
